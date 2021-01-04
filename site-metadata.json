@@ -1,0 +1,81 @@
+{
+    "description": "Personal blogging theme for Stackbit",
+    "layout_style": "overflow",
+    "palette": "blue",
+    "header": {
+        "title": "Stackbit Fresh",
+        "tagline": "Header Tagline",
+        "profile_img": "images/avatar.png",
+        "background": "dark",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Home",
+                "url": "/",
+                "style": "link"
+            },
+            {
+                "label": "Blog",
+                "url": "/blog/",
+                "style": "link"
+            },
+            {
+                "label": "Style Guide",
+                "url": "/style-guide/",
+                "style": "link"
+            },
+            {
+                "label": "About",
+                "url": "/about/",
+                "style": "link"
+            },
+            {
+                "label": "Contact",
+                "url": "/contact/",
+                "style": "link"
+            }
+        ],
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/",
+                "style": "icon",
+                "icon_class": "fa-twitter",
+                "new_window": true
+            },
+            {
+                "label": "Instagram",
+                "url": "https://www.instagram.com/",
+                "style": "icon",
+                "icon_class": "fa-instagram",
+                "new_window": true
+            },
+            {
+                "label": "GitHub",
+                "url": "https://github.com/",
+                "style": "icon",
+                "icon_class": "fa-github",
+                "new_window": true
+            },
+            {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/",
+                "style": "icon",
+                "icon_class": "fa-linkedin",
+                "new_window": true
+            },
+            {
+                "label": "DEV",
+                "url": "https://dev.to/",
+                "style": "icon",
+                "icon_class": "fa-dev",
+                "new_window": true
+            }
+        ]
+    },
+    "footer": {
+        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created on <a href=\"https://www.stackbit.com\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Get yours <a href=\"https://app.stackbit.com/create?theme=fresh\" target=\"_blank\" rel=\"noopener\">here</a>."
+    },
+    "title": "Stackbit Fresh Theme"
+}
